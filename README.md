@@ -22,10 +22,10 @@ Hola, yo soy Rolando Duarte!
 <hr>
 
 <pre>
-💻 Soy un desarrollador Full Stack y un desarrollador Front End.
+💻 Soy un desarrollador Full Stack y me dusta mucho Front End.
 📚 Mis estudios los realicé en Digital House, Skill Factory by Avalith y Alura Latam.
-📝 Tengo un gran interés en la programación lo cual soy Autodidacta.
-🌱 Me interas mucho aprender de mis compañeros.
+📝 Tengo un gran interés en la programación por lo cual soy Autodidacta.
+🌱 Me interas mucho aprender cosas nuevas.
 🌟 Lenguajes : JavaScript, Java
 🤔 Actualmente estoy buscando: <b>Una oportunidad de trabajo</b>, este es <a href="https://portfolio-rolando-du.vercel.app/ " target="_blank">MI PORTFOLIO</a>
 </pre>
