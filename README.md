@@ -67,9 +67,9 @@ Hola, yo soy Rolando Duarte!
 ### 🗄️ Bases de datos y alojamiento en la nube
 
 <p align="center">
-    <a href="https://github.com/Rolando-Du"><img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a></br>
     <a href="https://github.com/Rolando-Du"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a></br>
-    <a href="https://github.com/Rolando-Du"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://github.com/Rolando-Du"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a></br>
+    <a href="https://github.com/Rolando-Du"><img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a></br>
 </p>
 
 ### 💻Software y herramientas
