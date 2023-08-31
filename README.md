@@ -30,26 +30,26 @@ Hola, yo soy Rolando Duarte!
 🤔 Actualmente estoy buscando: <b>Una oportunidad de trabajo</b>, este es <a href="https://portfolio-rolando-du.vercel.app/ " target="_blank">MI PORTFOLIO</a>
 </pre>
 <hr>
-<p align="center">
+
 ## 🤝 Conectate conmigo
-</p>
+
 <p>
 	<a href="https://github.com/Rolando-Du"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/</a>
 	<a href="mailto:rolandoduarte83@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Rolando-Du"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-<p align="center">
+
 ## 🛠️ Mis herramientas favoritas
 
 ### 👨‍💻 Lenguajes de programación
-</p>
+
 <p >
   <a href="https://github.com/Rolando-Du"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href="https://github.com/Rolando-Du">  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 </p>
-<p align="center">
+
 ### 🧰 Frameworks and Libraries
-</p>
+
 
 <p align="center" >
   <a href="https://github.com/Rolando-Du"> <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -71,9 +71,9 @@ Hola, yo soy Rolando Duarte!
     <a href="https://github.com/Rolando-Du"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="https://github.com/Rolando-Du"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
 </p>
-<p align="center">
+
 ### 💻Software y herramientas
-</p>
+
 <p align="center">
     <a href="https://github.com/Rolando-Du"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
     <a href="https://github.com/Rolando-Du"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -87,9 +87,9 @@ Hola, yo soy Rolando Duarte!
     <a href="https://github.com/Rolando-Du"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
 </p>
 </br>
-<p align="center">
+
 #### GitHub Stats
-</p>
+
 <br/>
 <summary><b>⚡ Estadísticas </b></summary>
 <br/>
@@ -119,16 +119,16 @@ Hola, yo soy Rolando Duarte!
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
-<p align="center">
+
 ## Trabajemos juntos en su proyecto!
-</p>
+
 Si tiene alguna pregunta sobre el desarrollo web front-end, no dude en contácteme por correo electrónico <a href="mailto:rolandoduarte83@gmail.com"></a>.
 
   </td>
   <td width="50%" valign="top">
-<p align="center">
+
 ## No es perfecto, ¿no es así?
-</p>
+
 **<a href="https://github.com/Rolando-Du"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
 "Creo que es muy importante tener un circuito de retroalimentación, en el que estés pensando constantemente en lo que has hecho y cómo podrías hacerlo mejor".
@@ -138,8 +138,7 @@ Si tiene alguna pregunta sobre el desarrollo web front-end, no dude en contácte
 </table>
 
 ------
-<p align="center">
+
 [Rolando Duarte](https://github.com/Rolando-Du)
-</p>
 
 Última edición: 31/08/2023
