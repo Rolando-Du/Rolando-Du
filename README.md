@@ -33,9 +33,9 @@ Hola, yo soy Rolando Duarte!
 
 ## 🤝 Conectate conmigo
 
-<p>
-	<a href="https://github.com/Rolando-Du"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/</a>
-	<a href="mailto:rolandoduarte83@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<p align="center" >
+	<a href="https://github.com/Rolando-Du"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/</a></br>
+	<a href="mailto:rolandoduarte83@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a></br>
 	<a href="https://github.com/Rolando-Du"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -43,7 +43,7 @@ Hola, yo soy Rolando Duarte!
 
 ### 👨‍💻 Lenguajes de programación
 
-<p >
+<p align="center" >
   <a href="https://github.com/Rolando-Du"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
   <a href="https://github.com/Rolando-Du">  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 </p>
