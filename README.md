@@ -49,8 +49,8 @@ Hola, yo soy Rolando Duarte!
 ### 🧰 Frameworks and Libraries
 
 <p>
-  <a href="https://github.com/Rolando-Du"> <img alt="Html" src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="https://github.com/Rolando-Du"><img alt="Css" src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="https://github.com/Rolando-Du"> <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="https://github.com/Rolando-Du"><img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://github.com/Rolando-Du"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></a>
    <a href="https://github.com/Rolando-Du"><img alt="Node" src="https://img.shields.io/badge/logo-node.js-oliva?logo=node.js"></a>
     <a href="https://github.com/Rolando-Du"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
