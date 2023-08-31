@@ -97,6 +97,7 @@ GitHub Stats
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Rolando-Du&show_icons=true" alt="Rolando-Du">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rolando-Du" alt="Rolando-Du">
 	</a>
+	<a><imghttps://github-readme-stats.vercel.app/api/top-langs/?username=Rolando-Du&theme=blue-green></a>
 	<br/>
 </p>
 <br/>
