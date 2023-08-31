@@ -13,7 +13,7 @@ Hola, yo soy Rolando Duarte!
 	</a>
 </p>
 <br/>
-<p align="self-start">
+<p align="center">
 	<a href="https://github.com/Rolando-Du">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Front+End+Developer;Freelancer;Entusiasta;Siempre%20aprendiendo%20cosas%20nuevas%20&center=true&width=380&height=45">
 	</a>
@@ -32,7 +32,7 @@ Hola, yo soy Rolando Duarte!
 <hr>
 
 ## 🤝 Conectate conmigo
-<p align="center">
+<p align="self-start">
 	<a href="https://github.com/Rolando-Du"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/</a>
 	<a href="mailto:rolandoduarte83@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Rolando-Du"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
