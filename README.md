@@ -79,7 +79,7 @@ Hola, yo soy Rolando Duarte!
     <a href="https://github.com/Rolando-Du"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://github.com/Rolando-Du"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
     <a href="https://github.com/Rolando-Du"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
+    <a href="https://github.com/Rolando-Du"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a></br>
     <a href="https://github.com/Rolando-Du"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23150458.svg?logo=Git&logoColor=orage"></a>
     <a href="https://github.com/Rolando-Du"><img alt="Postman" src="https://img.shields.io/badge/Postman%20-%23150458.svg?logo=Postman&logoColor=orage"></a>
     <a href="https://github.com/Rolando-Du"><img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23150458.svg?logo=Trello&logoColor=skyblue"></a>
