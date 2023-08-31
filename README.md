@@ -15,7 +15,7 @@ Hola, yo soy Rolando Duarte!
 <br/>
 <p align="center">
 	<a href="https://github.com/Rolando-Du">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Front+End+Developer;Freelancer;Entusiasta;Siempre%20aprendiendo%20cosas nuevas%20&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Front+End+Developer;Freelancer;Entusiasta;Siempre%20aprendiendo%20cosas%20nuevas%20&center=true&width=380&height=45">
 	</a>
 </p>
 
