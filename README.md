@@ -13,7 +13,7 @@ Hola, yo soy Rolando Duarte!
 	</a>
 </p>
 <br/>
-<p align="center">
+<p align="self-start">
 	<a href="https://github.com/Rolando-Du">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Front+End+Developer;Freelancer;Entusiasta;Siempre%20aprendiendo%20cosas%20nuevas%20&center=true&width=380&height=45">
 	</a>
