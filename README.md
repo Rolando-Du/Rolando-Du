@@ -1,8 +1,5 @@
 <h1 align="center">
-Hola, yo soy Rolando Duarte!
-	<a href="https://github.com/Rolando-Du" target="_self">
-		<img src="https://www.puttiapps.com/services/web-development/programming/" width="100">
-	</a>
+Hola, yo soy Rolando Duarte! 👋
 	
 </h1>
 
