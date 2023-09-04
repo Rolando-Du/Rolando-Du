@@ -14,7 +14,7 @@ Hola, yo soy Rolando Duarte! 👋
 </p>
 <br/>
 <p align="center">
-	<img src="https://media4.giphy.com/media/drL0JMo5jCaXHvsTa8/giphy.gif?cid=ecf05e47rx2eqdzzvyknkj2i0boujmx56lvy6twxavju6y4q&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100">
+	<img src="https://www.kickstarter.com/projects/674610728/rescuties-vr-save-the-day-with-your-htc-vive-oculu?token=68e26bf6" width="100">
  <a href="https://github.com/Rolando-Du">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Front+End+Developer;Freelancer;Entusiasta;Siempre%20aprendiendo%20cosas%20nuevas%20&center=true&width=380&height=45">
 		<img src="https://www.puttiapps.com/services/web-development/programming/" width="100">
