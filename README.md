@@ -16,7 +16,6 @@ Hola, yo soy Rolando Duarte! 👋
 
 
 <p align="center">
-       <img src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47ysopum04t29p5lhsqukst6vulmjt5psbrtv8iosm&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Rolando-Du" />
  <a href="https://github.com/Rolando-Du">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Front+End+Developer;Freelancer;Entusiasta;Siempre%20aprendiendo%20cosas%20nuevas%20&center=true&width=380&height=45">
 		<img src="https://www.puttiapps.com/services/web-development/programming/" width="100">
