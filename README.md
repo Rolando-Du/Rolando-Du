@@ -13,8 +13,10 @@ Hola, yo soy Rolando Duarte! 👋
 	</a>
 </p>
 <br/>
+
+
 <p align="center">
-	<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+       <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47sujkh1z35rfijlv4tmpr8ivstq7q1j1so0h8vtzh&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Rolando-Du" />
  <a href="https://github.com/Rolando-Du">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Front+End+Developer;Freelancer;Entusiasta;Siempre%20aprendiendo%20cosas%20nuevas%20&center=true&width=380&height=45">
 		<img src="https://www.puttiapps.com/services/web-development/programming/" width="100">
