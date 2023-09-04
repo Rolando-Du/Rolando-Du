@@ -48,7 +48,7 @@ Hola, yo soy Rolando Duarte!
   <a href="https://github.com/Rolando-Du">  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and Libraries
+### 🧰 Frameworks y Librerias
 
 
 <p align="center" >
