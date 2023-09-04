@@ -3,7 +3,10 @@ Hola, yo soy Rolando Duarte!
 	<a href="https://github.com/Rolando-Du" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
+	
 </h1>
+![06f21a161921919 63cd7887d0a70](https://github.com/Rolando-Du/Rolando-Du/assets/92954321/20d9b8d9-a03f-4e36-a169-64cad3e1d395)
+
 <p align="center">
 	<a href="https://github.com/Rolando-Du">
 		<img src="https://komarev.com/ghpvc/?username=Rolando-Du&label=Profile%20views&color=0e75b6&style=flat" alt="Rolando-Du" />
