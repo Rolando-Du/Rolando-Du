@@ -5,7 +5,6 @@ Hola, yo soy Rolando Duarte! 👋
 
 
 <p align="center">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fprogramming-anime-wallpapers&psig=AOvVaw0-f3ZrcIEdmEykjld5gG2T&ust=1693944148649000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOik0e3fkYEDFQAAAAAdAAAAABA4" width="10"" />
 	<a href="https://github.com/Rolando-Du">
 		<img src="https://komarev.com/ghpvc/?username=Rolando-Du&label=Profile%20views&color=0e75b6&style=flat" alt="Rolando-Du" />
 	</a>
