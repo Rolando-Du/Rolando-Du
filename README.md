@@ -1,7 +1,8 @@
 <h1 align="center">
 Hola, yo soy Rolando Duarte!
 	<a href="https://github.com/Rolando-Du" target="_self">
-		<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FBrianOrihuelaP&psig=AOvVaw2uiHOriZiYMpS71l0K578F&ust=1693941901879000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiXpr7XkYEDFQAAAAAdAAAAABAR" width="30">
+		<img src="" width="30">
+		https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FBrianOrihuelaP&psig=AOvVaw2uiHOriZiYMpS71l0K578F&ust=1693941901879000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMiXpr7XkYEDFQAAAAAdAAAAABAR
 	</a>
 	
 </h1>
