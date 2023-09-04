@@ -1,7 +1,7 @@
 <h1 align="center">
 Hola, yo soy Rolando Duarte!
 	<a href="https://github.com/Rolando-Du" target="_self">
-		<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif%3Flocale%3Des_ES&psig=AOvVaw0IQjP4s0fX7vzZ_bYksyLJ&ust=1693941010362000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKC165fUkYEDFQAAAAAdAAAAABBE" width="30">
+		<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw3O4hufJaZ1Y3NSbHEfdG4a&ust=1693941802714000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNix9I7XkYEDFQAAAAAdAAAAABAE" width="30">
 	</a>
 	
 </h1>
