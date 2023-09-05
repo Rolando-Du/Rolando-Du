@@ -98,10 +98,10 @@ Hola, yo soy Rolando Duarte! 👋
 <br/>
 <p align="center">
 	<a href="https://github.com/Rolando-Du">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Rolando-Du&show_icons=true" alt="Rolando-Du">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rolando-Du" alt="Rolando-Du">
+	<img width="45.%" src="https://github-readme-stats.vercel.app/api?username=Rolando-Du&theme=blue-green&show_icons=true" alt="Rolando-Du">
+	<img width="45.%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rolando-Du&theme=blue-green" alt="Rolando-Du">
 	</a>
-	<a><imghttps://github-readme-stats.vercel.app/api/top-langs/?username=Rolando-Du&theme=blue-green></a>
+	<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolando-Du&theme=blue-green"></a>
 	<br/>
 </p>
 <br/>
@@ -111,7 +111,7 @@ Hola, yo soy Rolando Duarte! 👋
 
 <p align="center">
 	<a href="https://github.com/Rolando-Du">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolando-Du&langs_count=8&layout=compact" alt="Rolando-Du">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolando-Du&theme=blue-green&langs_count=8&layout=compact" alt="Rolando-Du">
 	</a>
 	<br/>
 <br/>
@@ -128,7 +128,7 @@ Hola, yo soy Rolando Duarte! 👋
 Si tiene alguna pregunta sobre el desarrollo web front-end, no dude en contácteme por correo electrónico <a href="mailto:rolandoduarte83@gmail.com"></a>.
 
   </td>
-  <td width="50%" valign="top">
+  <td width="50%" valign="top" >
 
 ## No es perfecto, ¿no es así?
 
