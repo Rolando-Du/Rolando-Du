@@ -101,7 +101,6 @@ Hola, yo soy Rolando Duarte! 👋
 	<img width="45.%" src="https://github-readme-stats.vercel.app/api?username=Rolando-Du&theme=blue-green&show_icons=true" alt="Rolando-Du">
 	<img width="45.%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rolando-Du&theme=blue-green" alt="Rolando-Du">
 	</a>
-	<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolando-Du&theme=blue-green"></a>
 	<br/>
 </p>
 <br/>
