@@ -1,146 +1,207 @@
-<h1 align="center">
-Hola, yo soy Rolando Duarte! 👋
-	
-</h1>
+<div align="center">
 
-<p align="center">
-	<a href="https://github.com/Rolando-Du">
-		<img src="https://komarev.com/ghpvc/?username=Rolando-Du&label=Profile%20views&color=0e75b6&style=flat" alt="Rolando-Du" />
-	</a>
-	<a href="https://github.com/Rolando-Du">
-		<img src="https://img.shields.io/github/followers/Rolando-Du?label=Followers" alt="Rolando-Du" />
-	</a>
-</p>
-<br/>
+# 👋 Hola, soy Rolando Duarte
 
+### Full Stack Developer · React · Node.js · PostgreSQL · MongoDB
 
-<p align="center">
- <a href="https://github.com/Rolando-Du">
-	 <img src="https://www.puttiapps.com/services/web-development/programming/" width="100">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Front+End+Developer;Freelancer;Entusiasta;Siempre%20aprendiendo%20cosas%20nuevas%20&center=true&width=380&height=45">
-		<img src="https://www.puttiapps.com/services/web-development/programming/" width="100">
-	</a>
-</p>
+Construyo aplicaciones web, APIs REST y productos digitales con foco en **arquitectura limpia, experiencia de usuario y soluciones mantenibles**.
 
-<hr>
+[![GitHub](https://img.shields.io/badge/GitHub-Rolando--Du-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rolando-Du)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_proyectos-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rolando-du.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rolandoduarte83@gmail.com)
 
-<pre>
-💻 Soy un desarrollador Full Stack y me gusta mucho el Front End.
-📚 Mis estudios los realicé en Digital House, Skill Factory by Avalith y Alura Latam.
-📝 Tengo un gran interés en la programación por lo cual soy Autodidacta.
-🌱 Me interas mucho aprender cosas nuevas.
-🌟 Lenguajes : JavaScript, Java
-🤔 Actualmente estoy buscando: <b>Una oportunidad de trabajo</b>, este es <a href="https://portfolio-rolando-du.vercel.app/ " target="_blank">MI PORTFOLIO</a>
-</pre>
-<hr>
+![Profile Views](https://komarev.com/ghpvc/?username=Rolando-Du&label=Visitas%20al%20perfil&color=0ea5e9&style=flat)
 
-## 🤝 Conectate conmigo
+</div>
 
-<p align="center" >
-	<a href="mailto:rolandoduarte83@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Rolando-Du"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a></br>
-	<a href="https://github.com/Rolando-Du"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/</a>
-</p>
+---
 
-## 🛠️ Mis herramientas favoritas
+## 👨‍💻 Sobre mí
 
-### 👨‍💻 Lenguajes de programación
+Soy desarrollador **Full Stack** orientado a la creación de aplicaciones web modernas y soluciones empresariales. Trabajo principalmente con **JavaScript, React, Node.js, Express, PostgreSQL, Prisma y MongoDB**, construyendo desde interfaces responsive hasta APIs REST, sistemas con autenticación, dashboards y plataformas SaaS.
 
-<p align="center" >
-  <a href="https://github.com/Rolando-Du"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
-  <a href="https://github.com/Rolando-Du">  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
-</p>
+Me interesa especialmente transformar necesidades reales en productos claros, mantenibles y preparados para evolucionar. En mis proyectos actuales priorizo una buena separación de responsabilidades, documentación técnica, control de versiones y despliegues reproducibles.
 
-### 🧰 Frameworks y Librerias
+- 🔭 Desarrollo aplicaciones web, APIs REST y plataformas SaaS.
+- ⚛️ En frontend trabajo principalmente con React, Vite y Tailwind CSS.
+- 🟢 En backend utilizo Node.js y Express.
+- 🗄️ Trabajo con PostgreSQL, Prisma, MongoDB y Mongoose.
+- 🔐 Implemento autenticación, autorización, validaciones y buenas prácticas de seguridad.
+- 🚀 Utilizo GitHub, Vercel y Render para versionado y despliegue.
+- 📚 Mantengo una formación continua y una fuerte orientación autodidacta.
 
+---
 
-<p align="center" >
-  <a href="https://github.com/Rolando-Du"> <img alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="https://github.com/Rolando-Du"><img alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="https://github.com/Rolando-Du"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></a>
-   <a href="https://github.com/Rolando-Du"><img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-   <a href="https://github.com/Rolando-Du"> <img alt="ReduxToolkit" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
-   <a href="https://github.com/Rolando-Du"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-</p>
+## 🚀 Proyectos destacados
 
-### 🗄️ Bases de datos y alojamiento en la nube
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-    <a href="https://github.com/Rolando-Du"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a></br>
-    <a href="https://github.com/Rolando-Du"><img alt="Vercel" src ="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
+### 🧪 Rick & Morty Explorer
 
-### 💻Software y herramientas
+Reconstrucción moderna de una aplicación frontend para explorar personajes de Rick and Morty.
 
-<p align="center">
-    <a href="https://github.com/Rolando-Du"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a></br>
-    <a href="https://github.com/Rolando-Du"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23150458.svg?logo=Git&logoColor=orage"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="Postman" src="https://img.shields.io/badge/Postman%20-%23150458.svg?logo=Postman&logoColor=orage"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23150458.svg?logo=Trello&logoColor=skyblue"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="https://github.com/Rolando-Du"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-</p>
-</br>
+**Incluye:** búsqueda, filtros combinados, paginación, detalle de personajes, React Router, skeleton loading, manejo de errores y proxy para evitar problemas de CORS.
 
-#### GitHub Stats
+**Stack:** React · Vite · Tailwind CSS · React Router · Vercel
 
-<br/>
-<summary><b>⚡ Estadísticas </b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Rolando-Du">
-	<img width="45.%" src="https://github-readme-stats.vercel.app/api?username=Rolando-Du&theme=blue-green&show_icons=true" alt="Rolando-Du">
-	<img width="45.%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rolando-Du&theme=blue-green" alt="Rolando-Du">
-	</a>
-	<br/>
-</p>
-<br/>
+[![Repositorio](https://img.shields.io/badge/Repositorio-Ver_en_GitHub-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/rick-morty)
 
-<summary><b>⚡ Lenguajes principales </b></summary>
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-	<a href="https://github.com/Rolando-Du">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolando-Du&theme=blue-green&langs_count=8&layout=compact" alt="Rolando-Du">
-	</a>
-	<br/>
-<br/>
-<b>Nota:</b> Los lenguajes principales son solo una métrica de los lenguajes que componen mi código público y no reflejan experiencia ni nivel de habilidad..
-</p>
-<br/>
+### 🧩 NexoCore
 
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
+Plataforma SaaS modular orientada a la gestión empresarial, diseñada con una arquitectura escalable y multiusuario.
 
-## Trabajemos juntos en tu proyecto?
+**Incluye:** autenticación, tenants, roles, permisos, auditoría, APIs REST y documentación Swagger.
 
-Si tiene alguna pregunta sobre el desarrollo web front-end, no dude en contácteme por correo electrónico <a href="mailto:rolandoduarte83@gmail.com"></a>.
+**Stack:** React · Node.js · Express · PostgreSQL · Prisma · Swagger
 
-  </td>
-  <td width="50%" valign="top" >
+[![Repositorio](https://img.shields.io/badge/Repositorio-Ver_en_GitHub-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/NexoCore)
 
-## No es perfecto, ¿no es así?
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**<a href="https://github.com/Rolando-Du"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
+### 🌱 Phoenix Environment
 
-"Creo que es muy importante tener un circuito de retroalimentación, en el que estés pensando constantemente en lo que has hecho y cómo podrías hacerlo mejor".
-–**Elon Musk**
-  </td>
-  </tr>
+Aplicación orientada al monitoreo ambiental y visualización de información relacionada con calidad del aire.
+
+**Incluye:** aplicación móvil, mapa, geolocalización, puntos AQI, alertas y backend propio.
+
+**Stack:** React Native · Expo · Node.js · TypeScript · PostgreSQL · Prisma
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-Ver_en_GitHub-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/phoenix-environment)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Sistema Seguridad
+
+Sistema de gestión y análisis de incidentes con visualización geográfica y herramientas de apoyo para el análisis operativo.
+
+**Incluye:** mapas, heatmaps, filtros, métricas, exportación de datos y dashboards.
+
+**Stack:** React · Node.js · Express · PostgreSQL · Leaflet
+
+[![Repositorio](https://img.shields.io/badge/Repositorio-Ver_en_GitHub-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/sistema-seguridad)
+
+</td>
+</tr>
 </table>
 
-------
+---
 
-[Rolando Duarte](https://github.com/Rolando-Du)
+## 🛠️ Stack tecnológico
 
-Última edición: 31/08/2023
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_API-0F172A?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000" alt="Swagger" />
+</p>
+
+### Bases de datos
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### Mobile & Maps
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
+</p>
+
+### Herramientas y deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000" alt="Render" />
+</p>
+
+---
+
+## 🧠 Áreas en las que trabajo
+
+```text
+Frontend moderno       → React, Vite, Tailwind CSS
+Backend y APIs         → Node.js, Express, REST
+Bases de datos         → PostgreSQL, Prisma, MongoDB
+Arquitectura           → SaaS, multi-tenant, roles y permisos
+Seguridad              → JWT, bcrypt, validaciones, CORS, Helmet
+Integraciones          → APIs externas, email, webhooks
+Visualización          → dashboards, mapas, heatmaps
+Mobile                 → React Native + Expo
+Deployment             → Vercel, Render, GitHub
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rolando-Du&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolando-Du&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Lenguajes principales" />
+
+</div>
+
+> Las estadísticas de lenguajes reflejan la composición de los repositorios públicos y no representan por sí solas el nivel de experiencia en cada tecnología.
+
+---
+
+## 🎯 En qué estoy enfocado
+
+Actualmente estoy profundizando en el desarrollo de **productos SaaS, arquitecturas modulares, APIs robustas y aplicaciones con React**, combinando frontend, backend, bases de datos y despliegue para construir soluciones completas de principio a fin.
+
+También continúo trabajando en proyectos orientados a **gestión empresarial, seguridad, geolocalización, medio ambiente y automatización de procesos**.
+
+---
+
+## 🤝 Contacto
+
+Si querés conversar sobre desarrollo web, colaborar en un proyecto o conocer más sobre mi trabajo:
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rolando-du.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Rolando--Du-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rolando-Du)
+[![Email](https://img.shields.io/badge/Email-rolandoduarte83%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rolandoduarte83@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Gracias por visitar mi perfil 👋
+
+**Siempre aprendiendo, construyendo y mejorando.**
+
+</div>
