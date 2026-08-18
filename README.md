@@ -1,10 +1,8 @@
 <div align="center">
 
-# Rolando Duarte
+<img src="./assets/header.svg" alt="Rolando Duarte — Full Stack Developer" width="100%" />
 
-### Full Stack Developer · Web · APIs · SaaS · Mobile
-
-Construyo productos digitales completos: interfaces modernas, APIs REST, sistemas empresariales, dashboards, mapas y aplicaciones móviles.
+<br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Ver_proyectos-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rolando-du.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Rolando--Du-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rolando-Du)
@@ -16,26 +14,24 @@ Construyo productos digitales completos: interfaces modernas, APIs REST, sistema
 
 ---
 
-## Sobre mí
+## 👨‍💻 Perfil profesional
 
-Soy desarrollador **Full Stack** con foco en la construcción de soluciones web modernas, APIs robustas y productos que puedan crecer de forma ordenada.
+Soy **Full Stack Developer** orientado a construir productos digitales completos: frontend moderno, APIs REST, sistemas empresariales, plataformas SaaS, dashboards, mapas y aplicaciones móviles.
 
-Trabajo principalmente con **React, Vite, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma y MongoDB**, y también desarrollo experiencias mobile con **React Native + Expo**.
-
-Me interesa especialmente resolver problemas reales mediante software: sistemas de gestión, plataformas SaaS, dashboards, geolocalización, mapas, seguridad, automatización y consumo de APIs externas.
+Trabajo con una visión de producto de punta a punta: **arquitectura, desarrollo, datos, seguridad, documentación, pruebas técnicas y deployment**. Priorizo soluciones claras, mantenibles y preparadas para crecer.
 
 ```text
 Frontend        React · Vite · Tailwind CSS · JavaScript · TypeScript
-Backend         Node.js · Express · REST APIs · JWT · Swagger
-Databases       PostgreSQL · Prisma · MongoDB · Mongoose
+Backend         Node.js · Express · FastAPI · REST APIs · JWT · Swagger
+Datos           PostgreSQL · Prisma · MongoDB · Mongoose · SQLite
 Mobile          React Native · Expo
-Maps & Data     Leaflet · MapLibre · APIs geográficas y ambientales
-DevOps          Git · GitHub · Vercel · Render · Docker
+Mapas           Leaflet · MapLibre · geolocalización · rutas · heatmaps
+DevOps          Git · GitHub · Docker · Vercel · Render
 ```
 
 ---
 
-## Proyectos destacados
+## 🚀 Proyectos destacados
 
 <table>
 <tr>
@@ -43,26 +39,36 @@ DevOps          Git · GitHub · Vercel · Render · Docker
 
 ### 🧩 NexoCore
 
-Plataforma SaaS empresarial para gestión de clientes, operaciones, evidencias, notificaciones y auditoría.
+**SaaS empresarial modular** para gestión de clientes, operaciones, evidencias, notificaciones y auditoría.
 
-**Destaca por:** arquitectura modular, multi-tenant, roles y permisos, JWT, PostgreSQL, Prisma y Swagger.
+- Arquitectura multi-tenant
+- Roles y permisos
+- Autenticación JWT
+- Auditoría y notificaciones
+- PostgreSQL + Prisma
+- Swagger / OpenAPI
 
-**Stack:** React · Node.js · Express · PostgreSQL · Prisma · Swagger
+**Stack:** React · Node.js · Express · PostgreSQL · Prisma
 
-[![Repositorio](https://img.shields.io/badge/Código-Ver_repositorio-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/NexoCore)
+[![Repositorio](https://img.shields.io/badge/GitHub-NexoCore-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/NexoCore)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌿 CLEARZONE Environment
 
-Aplicación mobile + backend para monitoreo ambiental, calidad del aire, clima, rutas y seguimiento en tiempo real.
+**Aplicación mobile + backend** para monitoreo ambiental, calidad del aire, clima, rutas y seguimiento en tiempo real.
 
-**Destaca por:** AQI real, geolocalización, MapLibre, rutas con OpenRouteService y APK Android generado con EAS Build.
+- Datos AQI reales
+- Clima actual
+- Geolocalización
+- MapLibre + OpenFreeMap
+- Rutas con OpenRouteService
+- APK Android con EAS Build
 
 **Stack:** React Native · Expo · TypeScript · Node.js · Prisma · PostgreSQL
 
-[![Repositorio](https://img.shields.io/badge/Código-Ver_repositorio-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/phoenix-environment)
+[![Repositorio](https://img.shields.io/badge/GitHub-CLEARZONE-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/phoenix-environment)
 
 </td>
 </tr>
@@ -71,26 +77,37 @@ Aplicación mobile + backend para monitoreo ambiental, calidad del aire, clima, 
 
 ### 🛡️ Sistema de Seguridad
 
-Sistema full stack para gestión, análisis, auditoría y visualización territorial de incidentes.
+**Plataforma full stack** para gestión, análisis y visualización territorial de incidentes.
 
-**Destaca por:** mapa operativo, heatmap, reportes, auditoría, roles de usuario y cálculo de base operativa más cercana.
+- Dashboard operativo
+- Mapas y heatmaps
+- Bases operativas
+- Reportes y exportación CSV
+- Roles ADMIN / OPERADOR / LECTOR
+- Auditoría de acciones
 
 **Stack:** React · Vite · Node.js · Express · PostgreSQL · Prisma · Leaflet
 
-[![Repositorio](https://img.shields.io/badge/Código-Ver_repositorio-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/sistema-seguridad)
+[![Demo](https://img.shields.io/badge/Demo-Producción-0EA5E9?style=flat-square&logo=vercel)](https://sistema-seguridad-six.vercel.app)
+[![Repositorio](https://img.shields.io/badge/GitHub-Sistema_Seguridad-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/sistema-seguridad)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏪 Sistema Kiosco
 
-Sistema de gestión para kiosco, librería e impresiones con productos, stock, ventas, compras, proveedores y caja diaria.
+**Sistema de gestión comercial** para kiosco, librería e impresiones.
 
-**Destaca por:** ventas POS, control de stock, apertura/cierre de caja y gestión completa de compras y proveedores.
+- Productos y stock
+- Ventas POS
+- Caja diaria
+- Compras
+- Proveedores
+- Historial y reportes
 
 **Stack:** React · Vite · Tailwind CSS · FastAPI · SQLAlchemy · SQLite
 
-[![Repositorio](https://img.shields.io/badge/Código-Ver_repositorio-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/SistemaKiosco)
+[![Repositorio](https://img.shields.io/badge/GitHub-SistemaKiosco-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/SistemaKiosco)
 
 </td>
 </tr>
@@ -99,27 +116,38 @@ Sistema de gestión para kiosco, librería e impresiones con productos, stock, v
 
 ### 🧪 Rick & Morty Explorer
 
-Reconstrucción desde cero de una aplicación para explorar personajes de Rick and Morty con una arquitectura frontend moderna.
+**Reconstrucción moderna desde cero** de una aplicación de exploración de personajes.
 
-**Destaca por:** búsqueda, filtros combinados, paginación, detalle, React Router, skeleton loading, manejo de errores y proxy Vite/Vercel.
+- Búsqueda y filtros combinados
+- Paginación
+- Detalle por personaje
+- React Router
+- Skeleton loading
+- Proxy Vite / Vercel
+- Manejo de errores HTTP
 
-**Stack:** React · Vite · Tailwind CSS · React Router · Vercel
+**Stack:** React · Vite · Tailwind CSS · React Router
 
 [![Demo](https://img.shields.io/badge/Demo-Ver_online-0EA5E9?style=flat-square&logo=vercel)](https://rick-morty-sand-seven.vercel.app)
-[![Repositorio](https://img.shields.io/badge/Código-GitHub-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/rick-morty)
+[![Repositorio](https://img.shields.io/badge/GitHub-rick--morty-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/rick-morty)
 
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Sistema de Registro de Vuelos
+### ✈️ Registro de Vuelos
 
-Aplicación full stack para registrar, consultar y administrar movimientos de vuelos.
+**Aplicación full stack** para registrar y administrar movimientos operativos de vuelos.
 
-**Destaca por:** autenticación JWT, rutas protegidas, dashboard, arribos, partidas, búsquedas específicas y persistencia MongoDB.
+- Login y registro
+- JWT y rutas protegidas
+- Arribos y partidas
+- Búsquedas específicas
+- Dashboard de actividad
+- Persistencia MongoDB
 
 **Stack:** React · Vite · Tailwind CSS · Node.js · Express · MongoDB
 
-[![Repositorio](https://img.shields.io/badge/Código-Ver_repositorio-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/psa-vuelos-sistema)
+[![Repositorio](https://img.shields.io/badge/GitHub-psa--vuelos--sistema-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/psa-vuelos-sistema)
 
 </td>
 </tr>
@@ -127,130 +155,129 @@ Aplicación full stack para registrar, consultar y administrar movimientos de vu
 
 ---
 
-## Stack tecnológico
+## 🛠️ Tecnologías
 
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,ts,html,css" alt="Tecnologías frontend" />
 </p>
 
-### Backend
+### Backend & APIs
 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=000" alt="Swagger" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" alt="Tecnologías backend" />
 </p>
 
 ### Bases de datos
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=postgres,prisma,mongodb,sqlite" alt="Bases de datos" />
 </p>
 
-### Mobile, mapas y visualización
+### Herramientas & Deployment
 
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
-  <img src="https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white" alt="MapLibre" />
-</p>
-
-### Herramientas y deployment
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000" alt="Render" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,vercel" alt="Herramientas" />
 </p>
 
 ---
 
-## Qué construyo
+## 🧠 Qué puedo construir
+
+| Área | Experiencia aplicada |
+|---|---|
+| **SaaS** | Multi-tenant, roles, permisos, auditoría y módulos empresariales |
+| **APIs REST** | Autenticación, validaciones, servicios, documentación y seguridad |
+| **Dashboards** | Métricas, filtros, reportes, gráficos y exportación |
+| **Mapas** | Geolocalización, heatmaps, rutas, tracking y puntos operativos |
+| **Mobile** | React Native + Expo + APIs nativas |
+| **Datos** | PostgreSQL, Prisma, MongoDB, modelado y persistencia |
+| **Deploy** | Vercel, Render, Docker y entornos de producción |
+
+---
+
+## 🧱 Cómo trabajo
 
 ```text
-SaaS y sistemas empresariales      → multi-tenant, roles, permisos, auditoría
-APIs REST                          → autenticación, validación, documentación
-Dashboards                         → métricas, reportes, filtros y visualización
-Mapas                              → geolocalización, heatmaps, rutas y tracking
-Aplicaciones móviles               → React Native + Expo
-Integraciones                      → APIs externas, email, webhooks y datos reales
-Deploy                             → frontend, backend y base de datos en producción
+Problema real
+    ↓
+Análisis funcional
+    ↓
+Arquitectura y modelo de datos
+    ↓
+API / Backend
+    ↓
+Frontend o Mobile
+    ↓
+Seguridad y validaciones
+    ↓
+Documentación
+    ↓
+Lint / Build / pruebas técnicas
+    ↓
+GitHub + Deployment
 ```
 
----
+Principios que mantengo en mis proyectos:
 
-## Principios de trabajo
-
-- Arquitectura clara y separación de responsabilidades.
-- Componentes y servicios reutilizables.
-- APIs documentadas y fáciles de probar.
-- Seguridad mediante autenticación, autorización y validaciones.
-- Variables sensibles fuera del repositorio.
-- Interfaces responsive y orientadas a una buena experiencia de usuario.
-- Git como parte del flujo normal de desarrollo.
-- Documentación técnica para facilitar mantenimiento y evolución.
+- separación clara de responsabilidades;
+- componentes y servicios reutilizables;
+- APIs fáciles de probar y documentar;
+- autenticación y autorización cuando corresponde;
+- secretos fuera del repositorio;
+- interfaces responsive;
+- Git como parte del flujo diario;
+- documentación pensada para mantenimiento y evolución.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rolando-Du&show_icons=true&theme=github_dark&hide_border=true" alt="Estadísticas de GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rolando-Du&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolando-Du&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Lenguajes principales" />
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rolando-Du&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 
 </div>
 
-> Las estadísticas de lenguajes representan la composición de los repositorios públicos y no equivalen al nivel de experiencia en cada tecnología.
+> Las estadísticas reflejan los repositorios públicos y no equivalen por sí solas al nivel de experiencia en cada tecnología.
 
 ---
 
-## En qué estoy trabajando
+## 🎯 Enfoque actual
 
-Actualmente continúo profundizando en:
+Actualmente profundizo especialmente en:
 
-- arquitecturas SaaS y multi-tenant;
-- React y aplicaciones frontend modernas;
+- productos SaaS y arquitecturas multi-tenant;
+- React y frontend moderno;
 - Node.js, Express y APIs REST;
 - PostgreSQL + Prisma;
 - React Native + Expo;
-- sistemas con mapas y geolocalización;
-- automatización e integración con servicios externos;
-- calidad, documentación y deployment de proyectos reales.
+- mapas, geolocalización y datos territoriales;
+- automatización e integraciones externas;
+- seguridad, documentación y deployment.
 
 ---
 
-## Contacto
+## 🤝 Contacto
 
 <div align="center">
 
-Si querés conocer mis proyectos, colaborar o conversar sobre desarrollo de software:
+¿Querés conocer mis proyectos o conversar sobre desarrollo de software?
 
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-rolando-du.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Rolando--Du-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rolando-Du)
 [![Email](https://img.shields.io/badge/Email-rolandoduarte83%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rolandoduarte83@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Rolando--Du-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rolando-Du)
 
 <br />
 
-### Gracias por visitar mi perfil
-
-**Siempre aprendiendo, construyendo y mejorando.**
+**Construir · Aprender · Mejorar · Repetir**
 
 </div>
