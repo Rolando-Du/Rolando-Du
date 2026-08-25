@@ -114,22 +114,25 @@ DevOps          Git · GitHub · Docker · Vercel · Render
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 Rick & Morty Explorer
+### 🛡️ SIGEP — Sistema Integral de Gestión de Equipamiento y Personal
 
-**Reconstrucción moderna desde cero** de una aplicación de exploración de personajes.
+Aplicación web para la gestión logística de personal, equipamiento, stock, asignaciones y devoluciones.
 
-- Búsqueda y filtros combinados
-- Paginación
-- Detalle por personaje
-- React Router
-- Skeleton loading
-- Proxy Vite / Vercel
-- Manejo de errores HTTP
+- Gestión de personal y estados
+- Control de equipamiento individual y por cantidad
+- Asignación permanente de pistolas
+- Asignación temporaria de chalecos balísticos
+- Provisión automática de 3 cargadores + 50 municiones 9 mm
+- Historial de movimientos
+- Impresión y exportación a PDF
+- Login de administrador con JWT
+- Cambio de usuario y contraseña
+- PostgreSQL + Prisma
+- Backend protegido con autenticación
 
-**Stack:** React · Vite · Tailwind CSS · React Router
+**Stack:** React · Vite · Tailwind CSS · Node.js · Express · PostgreSQL · Prisma · JWT
 
-[![Demo](https://img.shields.io/badge/Demo-Ver_online-0EA5E9?style=flat-square&logo=vercel)](https://rick-morty-sand-seven.vercel.app)
-[![Repositorio](https://img.shields.io/badge/GitHub-rick--morty-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/rick-morty)
+[![Repositorio](https://img.shields.io/badge/GitHub-SIGEP-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/sigep)
 
 </td>
 <td width="50%" valign="top">
