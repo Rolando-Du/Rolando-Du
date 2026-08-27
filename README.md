@@ -37,6 +37,90 @@ DevOps          Git · GitHub · Docker · Vercel · Render
 <tr>
 <td width="50%" valign="top">
 
+### ✈️ Registro de Vuelos
+
+**Aplicación full stack** para registrar y administrar movimientos operativos de vuelos.
+
+- Login y registro
+- JWT y rutas protegidas
+- Arribos y partidas
+- Búsquedas específicas
+- Dashboard de actividad
+- Persistencia MongoDB
+
+**Stack:** React · Vite · Tailwind CSS · Node.js · Express · MongoDB
+
+[![Repositorio](https://img.shields.io/badge/GitHub-psa--vuelos--sistema-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/psa-vuelos-sistema)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ SIGEP — Sistema Integral de Gestión de Equipamiento y Personal
+
+**Aplicación web** para la gestión logística de personal, equipamiento, stock, asignaciones y devoluciones.
+
+- Gestión de personal y estados
+- Control de equipamiento individual y por cantidad
+- Asignación permanente y temporaria de elementos
+- Gestión y control de equipamiento
+- Control de stock e inventario
+- Historial de movimientos y asignaciones
+- Registro de entregas y devoluciones
+- Impresión y exportación a PDF
+- Login de administrador con JWT
+- PostgreSQL + Prisma
+- Backend protegido con autenticación
+
+**Stack:** React · Vite · Tailwind CSS · Node.js · Express · PostgreSQL · Prisma · JWT
+
+[![Repositorio](https://img.shields.io/badge/GitHub-SIGEP-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/sigep)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Sistema de Seguridad
+
+**Plataforma full stack** para gestión, análisis y visualización territorial de incidentes.
+
+- Dashboard operativo
+- Mapas y heatmaps
+- Bases operativas
+- Reportes y exportación CSV
+- Roles ADMIN / OPERADOR / LECTOR
+- Auditoría de acciones
+
+**Stack:** React · Vite · Node.js · Express · PostgreSQL · Prisma · Leaflet
+
+[![Demo](https://img.shields.io/badge/Demo-Producción-0EA5E9?style=flat-square&logo=vercel)](https://sistema-seguridad-six.vercel.app)
+[![Repositorio](https://img.shields.io/badge/GitHub-Sistema_Seguridad-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/sistema-seguridad)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Epulen
+
+**Aplicación web** desarrollada con enfoque en experiencia de usuario, diseño responsive y arquitectura moderna de frontend.
+
+- Diseño responsive
+- Interfaz moderna
+- Componentes reutilizables
+- Navegación optimizada
+- Experiencia de usuario (UX/UI)
+
+**Stack:** React · Vite · Tailwind CSS
+
+[![Demo](https://img.shields.io/badge/Demo-Producción-0EA5E9?style=flat-square&logo=vercel)](https://epulen.vercel.app/)
+[![Repositorio](https://img.shields.io/badge/GitHub-Epulen-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/Epulen)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🧩 NexoCore
 
 **SaaS empresarial modular** para gestión de clientes, operaciones, evidencias, notificaciones y auditoría.
@@ -72,26 +156,8 @@ DevOps          Git · GitHub · Docker · Vercel · Render
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
-
-### 🛡️ Sistema de Seguridad
-
-**Plataforma full stack** para gestión, análisis y visualización territorial de incidentes.
-
-- Dashboard operativo
-- Mapas y heatmaps
-- Bases operativas
-- Reportes y exportación CSV
-- Roles ADMIN / OPERADOR / LECTOR
-- Auditoría de acciones
-
-**Stack:** React · Vite · Node.js · Express · PostgreSQL · Prisma · Leaflet
-
-[![Demo](https://img.shields.io/badge/Demo-Producción-0EA5E9?style=flat-square&logo=vercel)](https://sistema-seguridad-six.vercel.app)
-[![Repositorio](https://img.shields.io/badge/GitHub-Sistema_Seguridad-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/sistema-seguridad)
-
-</td>
 <td width="50%" valign="top">
 
 ### 🏪 Sistema Kiosco
@@ -110,47 +176,21 @@ DevOps          Git · GitHub · Docker · Vercel · Render
 [![Repositorio](https://img.shields.io/badge/GitHub-SistemaKiosco-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/SistemaKiosco)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🛡️ SIGEP — Sistema Integral de Gestión de Equipamiento y Personal
+### 💻 Otros proyectos
 
-Aplicación web para la gestión logística de personal, equipamiento, stock, asignaciones y devoluciones.
+Desarrollo continuo de aplicaciones web, sistemas de gestión y soluciones full stack.
 
-- Gestión de personal y estados
-- Control de equipamiento individual y por cantidad
-- Asignación permanente de pistolas
-- Asignación temporaria de chalecos balísticos
-- Provisión automática de 3 cargadores + 50 municiones 9 mm
-- Historial de movimientos
-- Impresión y exportación a PDF
-- Login de administrador con JWT
-- Cambio de usuario y contraseña
-- PostgreSQL + Prisma
-- Backend protegido con autenticación
+- Aplicaciones web
+- Sistemas de gestión
+- APIs REST
+- Dashboards
+- Autenticación y autorización
+- Bases de datos
+- Integraciones y servicios externos
 
-**Stack:** React · Vite · Tailwind CSS · Node.js · Express · PostgreSQL · Prisma · JWT
-
-[![Repositorio](https://img.shields.io/badge/GitHub-SIGEP-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/sigep)
-
-</td>
-<td width="50%" valign="top">
-
-### ✈️ Registro de Vuelos
-
-**Aplicación full stack** para registrar y administrar movimientos operativos de vuelos.
-
-- Login y registro
-- JWT y rutas protegidas
-- Arribos y partidas
-- Búsquedas específicas
-- Dashboard de actividad
-- Persistencia MongoDB
-
-**Stack:** React · Vite · Tailwind CSS · Node.js · Express · MongoDB
-
-[![Repositorio](https://img.shields.io/badge/GitHub-psa--vuelos--sistema-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/psa-vuelos-sistema)
+**Stack:** React · Node.js · Express · PostgreSQL · MongoDB · Prisma · Tailwind CSS
 
 </td>
 </tr>
