@@ -37,21 +37,28 @@ DevOps          Git · GitHub · Docker · Vercel · Render
 <tr>
 <td width="50%" valign="top">
 
-### ✈️ Registro de Vuelos
+### ✈️ SkyLog Manager
 
-**Aplicación full stack** para registrar y administrar movimientos operativos de vuelos.
+**Aplicación full stack** para registrar y administrar movimientos operativos de vuelos, manifiestos y oficiales.
 
-- Login y registro
-- JWT y rutas protegidas
-- Arribos y partidas
-- Búsquedas específicas
+- Login y autenticación con JWT
+- Rutas protegidas
+- Registro de arribos y partidas
+- Numeración automática SMA
+- Gestión de pasajeros y tripulantes
+- Registro de equipaje de mano y bodega
+- Búsquedas por DNI, matrícula y oficial
+- Catálogo y autocompletado de oficiales
+- Edición y anulación de registros
 - Dashboard de actividad
-- Persistencia MongoDB
+- Exportación a PDF y Excel
+- Persistencia con PostgreSQL + Prisma
 
-**Stack:** React · Vite · Tailwind CSS · Node.js · Express · MongoDB
+**Stack:** React · Vite · Tailwind CSS · Node.js · Express · PostgreSQL · Prisma · JWT · pnpm
+
+**Deploy:** Vercel · Render · Neon
 
 [![Repositorio](https://img.shields.io/badge/GitHub-psa--vuelos--sistema-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/psa-vuelos-sistema)
-
 </td>
 <td width="50%" valign="top">
 
