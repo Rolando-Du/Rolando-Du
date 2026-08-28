@@ -109,23 +109,24 @@ DevOps          Git · GitHub · Docker · Vercel · Render
 
 ### 🛡️ Epulén Seguridad Industrial
 
-<p>
-  <img src="https://img.shields.io/badge/🛡️-Epulén%20Seguridad%20Industrial-1F4B3F?style=for-the-badge" alt="Epulén Seguridad Industrial" />
+<p align="center">
+  <a href="https://epulen.vercel.app/">
+    <img src="URL_DEL_LOGO_REAL" alt="Epulén Seguridad Industrial" width="180" />
+  </a>
 </p>
 
-**Sitio web corporativo** enfocado en soluciones de seguridad e higiene industrial, equipamiento de protección personal y suministros técnicos para minería y petróleo.
+**Sitio web corporativo** orientado a soluciones de seguridad e higiene industrial, EPP y suministros técnicos para minería y petróleo. :contentReference[oaicite:0]{index=0}
 
 - Catálogo de Elementos de Protección Personal (EPP)
 - Indumentaria y calzado de seguridad
-- Guantes y protección personal
-- Equipamiento para trabajos en altura
+- Protección para trabajos en altura
 - Señalización y sistemas de extinción
 - Herramientas y suministros industriales
 - Productos destacados por categoría
-- Formulario de solicitud de cotización
+- Solicitud de cotización
 - Formulario de contacto
-- Diseño responsive y experiencia de usuario optimizada
-- Integración de envío de consultas comerciales
+- Diseño responsive
+- Integración para consultas comerciales
 
 **Stack:** React · Vite · Tailwind CSS · JavaScript · EmailJS
 
