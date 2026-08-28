@@ -111,11 +111,15 @@ DevOps          Git · GitHub · Docker · Vercel · Render
 
 <p align="center">
   <a href="https://epulen.vercel.app/">
-    <img src="URL_DEL_LOGO_REAL" alt="Epulén Seguridad Industrial" width="180" />
+    <img
+      src="https://raw.githubusercontent.com/Rolando-Du/Epulen/master/frontend/public/epulen.png"
+      alt="Epulén Seguridad Industrial"
+      width="180"
+    />
   </a>
 </p>
 
-**Sitio web corporativo** orientado a soluciones de seguridad e higiene industrial, EPP y suministros técnicos para minería y petróleo. :contentReference[oaicite:0]{index=0}
+**Sitio web corporativo** orientado a soluciones de seguridad e higiene industrial, Elementos de Protección Personal (EPP) y suministros técnicos para minería y petróleo.
 
 - Catálogo de Elementos de Protección Personal (EPP)
 - Indumentaria y calzado de seguridad
@@ -134,6 +138,7 @@ DevOps          Git · GitHub · Docker · Vercel · Render
 
 [![Demo](https://img.shields.io/badge/Ver%20sitio-Epulén-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://epulen.vercel.app/)
 [![Repositorio](https://img.shields.io/badge/GitHub-Epulen-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/Epulen)
+
 </td>
 </tr>
 
