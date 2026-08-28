@@ -107,21 +107,32 @@ DevOps          Git · GitHub · Docker · Vercel · Render
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Epulen
+### 🛡️ Epulén Seguridad Industrial
 
-**Aplicación web** desarrollada con enfoque en experiencia de usuario, diseño responsive y arquitectura moderna de frontend.
+<p>
+  <img src="https://img.shields.io/badge/🛡️-Epulén%20Seguridad%20Industrial-1F4B3F?style=for-the-badge" alt="Epulén Seguridad Industrial" />
+</p>
 
-- Diseño responsive
-- Interfaz moderna
-- Componentes reutilizables
-- Navegación optimizada
-- Experiencia de usuario (UX/UI)
+**Sitio web corporativo** enfocado en soluciones de seguridad e higiene industrial, equipamiento de protección personal y suministros técnicos para minería y petróleo.
 
-**Stack:** React · Vite · Tailwind CSS
+- Catálogo de Elementos de Protección Personal (EPP)
+- Indumentaria y calzado de seguridad
+- Guantes y protección personal
+- Equipamiento para trabajos en altura
+- Señalización y sistemas de extinción
+- Herramientas y suministros industriales
+- Productos destacados por categoría
+- Formulario de solicitud de cotización
+- Formulario de contacto
+- Diseño responsive y experiencia de usuario optimizada
+- Integración de envío de consultas comerciales
 
-[![Demo](https://img.shields.io/badge/Demo-Producción-0EA5E9?style=flat-square&logo=vercel)](https://epulen.vercel.app/)
+**Stack:** React · Vite · Tailwind CSS · JavaScript · EmailJS
+
+**Deploy:** Vercel
+
+[![Demo](https://img.shields.io/badge/Ver%20sitio-Epulén-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://epulen.vercel.app/)
 [![Repositorio](https://img.shields.io/badge/GitHub-Epulen-181717?style=flat-square&logo=github)](https://github.com/Rolando-Du/Epulen)
-
 </td>
 </tr>
 
