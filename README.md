@@ -114,7 +114,7 @@ DevOps          Git · GitHub · Docker · Vercel · Render
     <img
       src="https://raw.githubusercontent.com/Rolando-Du/Epulen/master/frontend/public/epulen.png"
       alt="Epulén Seguridad Industrial"
-      width="180"
+      width="70"
     />
   </a>
 </p>
